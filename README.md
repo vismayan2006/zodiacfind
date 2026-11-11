@@ -5,7 +5,7 @@ Zodiac World is an interactive command-line application written in Python. It al
 
 HOW TO USE
 
-How to use
+
 
 Make sure Python  is installed on your system.
 
